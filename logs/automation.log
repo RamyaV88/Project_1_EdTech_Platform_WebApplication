@@ -1,0 +1,60 @@
+08/19/2025 05:57:17 PM: INFO: ****** Test Case-5 : Verifying the navigation to the Sign-In page via the Sign-Up button Started *****
+08/19/2025 05:57:17 PM: INFO: ****** Test Case-1 : TestValidURL Started *****
+08/19/2025 05:57:17 PM: INFO: ****** Verifying the validity of URL by checking the presence of Guvi Logo element *****
+08/19/2025 05:57:17 PM: INFO: ****** URL loaded successfully *****
+08/19/2025 05:57:17 PM: INFO: ****** Test Case-1 : TestValidURL Completed *****
+08/19/2025 05:57:17 PM: INFO: ****** Test Case-3 : Test Visibility of Login Button Started *****
+08/19/2025 05:57:18 PM: INFO: ****** Login Button Visible and Clickable *****
+08/19/2025 05:57:25 PM: INFO: ****** Successfully landed on Login Page upon clicking Login Button
+08/19/2025 05:57:25 PM: INFO: ****** Login Page Title displayed *****
+08/19/2025 05:57:25 PM: INFO: ****** Test Case-3 : Test Visibility of Login Button Completed *****
+08/19/2025 05:57:33 PM: INFO: ****** Test Case-4 : Test Visibility of Sign up Button Started *****
+08/19/2025 05:57:33 PM: INFO: ****** Test Case-2 : Title Validation Started *****
+08/19/2025 05:57:33 PM: INFO: ****** Verifying the Homepage Title *****
+08/19/2025 05:57:33 PM: INFO: ****** Sign up Button Visible and Clickable *****
+08/19/2025 05:57:33 PM: INFO: ****** Title displayed as expected *****
+08/19/2025 05:57:33 PM: INFO: ****** Test Case-2 : Title Validation Completed *****
+08/19/2025 05:57:40 PM: INFO: ****** Test case - 7 : Invalid Login Functionality test Started *****
+08/19/2025 05:57:40 PM: INFO: ****** Verifying Login with Invalid credentials *****
+08/19/2025 05:57:46 PM: INFO: ****** Login from Register Page verified *****
+08/19/2025 05:57:46 PM: INFO: ****** Test Case-5 : Verifying the navigation to the Sign-In page via the Sign-Up button Completed *****
+08/19/2025 05:57:51 PM: INFO: ****** Test case - 6 : Login Functionality test Started *****
+08/19/2025 05:57:51 PM: INFO: ****** Verifying Login with Valid credentials *****
+08/19/2025 05:57:57 PM: INFO: ****** On Clicking Sign up Button, it navigates to Register Page *****
+08/19/2025 05:57:57 PM: INFO: ****** Test Case-4 : Test Visibility of Sign up Button Completed *****
+08/19/2025 05:58:03 PM: INFO: ****** Verifying Login - Data Driven Login Started *****
+08/19/2025 05:58:09 PM: INFO: Test data is Passed
+08/19/2025 05:58:12 PM: INFO: Test data is Passed
+08/19/2025 05:58:15 PM: INFO: Test data is Passed
+08/19/2025 05:58:17 PM: INFO: Login check with Data Driven Passed
+08/19/2025 05:58:17 PM: INFO: ****** Verifying Login - Data Driven Login Completed *****
+08/19/2025 05:58:18 PM: INFO: ****** Login Successful *****
+08/19/2025 05:58:18 PM: INFO: ****** Test case - 6 : Login Functionality test Completed *****
+08/19/2025 05:58:25 PM: INFO: ****** Validation of LIVE Classes Menu *****
+08/19/2025 05:58:25 PM: INFO: ****** LIVE Classes visible on menu bar *****
+08/19/2025 05:58:25 PM: INFO: ****** Clicking on LIVE Classes *****
+08/19/2025 05:58:26 PM: INFO: ****** Test Case-8 - Validation of Menu Items Started *****
+08/19/2025 05:58:26 PM: INFO: ****** Validation of Courses Menu *****
+08/19/2025 05:58:28 PM: INFO: ****** Error message displayed as expected *****
+08/19/2025 05:58:28 PM: INFO: ****** Test case - 7 : Invalid Login Functionality test Completed *****
+08/19/2025 05:58:28 PM: INFO: ****** TestLogin Completed *****
+08/19/2025 05:58:29 PM: INFO: ****** Courses visible on menu bar *****
+08/19/2025 05:58:29 PM: INFO: ****** Clicking on Courses *****
+08/19/2025 05:58:34 PM: INFO: ****** Validation of Practice Menu *****
+08/19/2025 05:58:36 PM: INFO: ****** Practice visible on menu bar *****
+08/19/2025 05:58:36 PM: INFO: ****** Clicking on Practice *****
+08/19/2025 05:58:37 PM: INFO: ****** Test Case-9 - Validation of Dobby Guvi Assistant Started *****
+08/19/2025 05:58:37 PM: INFO: ****** Verifying the Presence of Dobby Guvi Assistant in Login Page *****
+08/19/2025 05:58:38 PM: INFO: ****** Validation of Resources Menu  *****
+08/19/2025 05:58:38 PM: INFO: ****** Resources visible on menu bar *****
+08/19/2025 05:58:38 PM: INFO: ****** Clicking on Resources *****
+08/19/2025 05:58:46 PM: INFO: ****** Validation of Products Menu  *****
+08/19/2025 05:58:47 PM: INFO: ****** Verified the Presence of Dobby Guvi Assistant in Login Page *****
+08/19/2025 05:58:47 PM: INFO: ****** Test Case-9 - Validation of Dobby Guvi Assistant Completed *****
+08/19/2025 05:58:47 PM: INFO: ****** Products visible on menu bar *****
+08/19/2025 05:58:47 PM: INFO: ****** Clicking on Products *****
+08/19/2025 05:58:47 PM: INFO: ****** Test Case-8 - Validation of Menu Items Completed *****
+08/19/2025 05:58:52 PM: INFO: ****** Test Case - 10 : Logout Functionality Test Started *****
+08/19/2025 05:59:18 PM: INFO: ****** Login Successful *****
+08/19/2025 05:59:18 PM: INFO: ****** Logout Successful *****
+08/19/2025 05:59:18 PM: INFO: ****** Test Case - 10 : Logout Functionality Test Completed *****
